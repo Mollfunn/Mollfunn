@@ -5,8 +5,7 @@ LANGS:
 USING:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-- 📫 How to reach me:
-- 
+
 <a href="https://www.linkedin.com/in/mollfunn/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
