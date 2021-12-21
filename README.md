@@ -1,4 +1,4 @@
-👋 Hello, I'm Mauro Avalo from Buenos Aires, Argentina. A student from <a href="https://www.teclab.edu.ar/acerca-de-teclab/" target="_blank">Teclab
+👋 Hello, I'm Mauro from Buenos Aires, Argentina. A student from <a href="https://www.teclab.edu.ar/acerca-de-teclab/" target="_blank">Teclab
 <h3>📑LEARNING:</h3>
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
