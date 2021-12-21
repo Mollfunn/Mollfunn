@@ -16,7 +16,7 @@ USING:
 </a>
 
 <a href="t.me/Mollfunn" target="_blank">
-  <img src="https://img.shields.io/badge/telegram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="telegram"/>
+  <img src="https://img.shields.io/badge/telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
 </a>
 
 <a href="mailto:mollfunn@gmail.com" target="_blank">
